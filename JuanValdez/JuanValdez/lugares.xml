@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<markers>
+  <marker id="1" 
+          lat="-33.402901" 
+          lng="-70.590131" 
+          label="Alonso de Córdova" 
+          Barrio="Vitacura" 
+          Desc="Alonso de Córdova 4115">
+  </marker>
+  
+  <marker id="2" 
+          lat="-33.414284" 
+          lng="-70.591753" 
+          label="El Golf"  
+          Barrio="Las Condes" 
+          Desc="El Golf 125">
+  </marker>
+  
+  <marker id="3"
+          lat="-33.343776" 
+          lng="-70.53017" 
+          label="El Colorado" 
+          Barrio="Lo Barnechea" 
+          Desc="Cerro La Paloma 5">
+  </marker>
+  
+  <marker id="4" 
+          lat="-33.421001" 
+          lng="-70.610314" 
+          label="Falabella Lyon"  
+          Barrio="Providencia"
+          Desc="Nueva de Lyon 64">
+  </marker>
+
+  <marker id="5"
+          lat="-33.481245"
+          lng="-70.754014"
+          label="Falabella Arauco Maipú"
+          Barrio="Maipú"
+          Desc="Calle Americo Vespucio 399">
+  </marker>
+  
+  <marker id="6" 
+          lat="-33.410487" 
+          lng="-70.566433" 
+          label="Falabella Manquehue"  
+          Barrio="Las Condes" 
+          Desc="Manquehue Sur 329">
+  </marker>
+  <marker id="7" 
+          lat="-33.399883" 
+          lng="-70.576368" 
+          label="Falabella Parque Arauco" 
+          Barrio="Las Condes" 
+          Desc="Avenida Presidente Kennedy 5413">
+  </marker>
+  <marker id="8" 
+          lat="-33.413908" 
+          lng="-70.599414" 
+          label="Isidora Goyenechea 3000" 
+          Barrio="Las Condes" 
+          Desc="Isidora Goyenechea 3000">
+  </marker>
+  <marker id="9" 
+          lat="-33.388453" 
+          lng="-70.545276" 
+          label="Mall Alto las Condes"  
+          Barrio="Las Condes" 
+          Desc="Avenida Presidente Kennedy 9001">
+  </marker>
+  <marker id="10" 
+          lat="-33.51841" 
+          lng="-70.600143" 
+          label="Mall Plaza Vespucio" 
+          Barrio="La Florida" 
+          Desc="Vicuña Mackenna Oriente 7110">
+  </marker>
+  <marker id="11" 
+          lat="-33.404504" 
+          lng="-70.573042" 
+          label="Nueva Las Condes" 
+          Barrio="Las Condes" 
+          Desc="Rosario Norte 530">
+  </marker>
+  <marker id="12" 
+          lat="-33.423745" 
+          lng="-70.612731" 
+          label="Providencia" 
+          Barrio="Providencia" 
+          Desc="Providencia 1985">
+  </marker>
+</markers>

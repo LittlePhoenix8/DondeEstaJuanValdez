@@ -1,0 +1,133 @@
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\App.g.cs
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\MainPage.g.cs
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.g.resources
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.pdb
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.pdb
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\AppManifest.xaml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.xap
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\Local.g.cs
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\Principal.g.cs
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Jaime Acevedo\documents\visual studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\Buscar.g.cs
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.pdb
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\AppManifest.xaml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.xap
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.csprojResolveAssemblyReference.cache
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\App.g.cs
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\Buscar.g.cs
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\Local.g.cs
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\MainPage.g.cs
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\Principal.g.cs
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.g.resources
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.dll
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.pdb
+C:\Users\Viviana\Documents\Visual Studio 2012\Projects\JuanValdez\JuanValdez\obj\Debug\XapCacheFile.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.pdb
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\AppManifest.xaml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\JuanValdez.xap
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.csprojResolveAssemblyReference.cache
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\App.g.cs
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\Buscar.g.cs
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\Local.g.cs
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\MainPage.g.cs
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\Principal.g.cs
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.g.resources
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.dll
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\JuanValdez.pdb
+C:\Users\Viviana\Desktop\Projects\JuanValdez\JuanValdez\obj\Debug\XapCacheFile.xml
